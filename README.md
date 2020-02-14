@@ -7,7 +7,7 @@
 ## Description
 
 This is a reinforcement learning framework made with research activity in mind.
-You can read mode about PRL in our 
+You can read more about PRL in our 
 [blogpost](https://medium.com/asap-report/prl-a-novel-approach-to-building-a-reinforcement-learning-framework-in-python-208cb8ae9349?sk=ea595f44fc8bd3f2aa4416c997d16891), 
 [documentation](https://prl.readthedocs.io/en/latest/index.html) or
 [wiki](https://gitlab.com/opium-sh/prl/wikis/home).
